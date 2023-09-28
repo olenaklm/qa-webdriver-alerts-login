@@ -1,0 +1,15 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name = "SimpleTest suite name">
+    <test name = "SimpleTest test name">
+
+        <classes>
+            <class name = "org.example.uitests.AlertsTests"/>
+<!--            <class name = "ua.ithillel.testng.FirstTest"/>-->
+<!--            <class name = "ua.ithillel.testng.SeleniumTest"/>-->
+<!--            <class name = "ua.ithillel.testng.GroupTest"/>-->
+        </classes>
+
+    </test>
+</suite>
